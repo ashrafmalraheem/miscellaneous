@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553183930 source:c:\users\ashraf abubaker\git repo\hello world\change files names\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+

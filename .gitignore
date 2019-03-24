@@ -1,0 +1,16 @@
+*.lst
+*.sta
+*.cof
+*.err
+*.esym
+*.hex
+*.sym
+*.tre
+*.xsym
+*.elf
+*.map
+*.o
+*.o.d
+Stream.h
+memoryfile.xml
+__history/
